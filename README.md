@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KayzMan
+- Checkout my Repository dedicated to projects for Apple Platforms: https://github.com/NgoniAppleDev
 - 👀 I’m interested in Web, API and Mobile Development
 - 👀 I’m also interested in Game Development.
 - 🌱 I’m currently learning Computer Science.
